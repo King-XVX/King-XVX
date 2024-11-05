@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python，c++，youtube
 - 🌱 I’m currently learning Python，c++
 - 💞️ I’m looking to collaborate on 编程
-- 📫 怎么联系我wtf3.1415926jkk@outlook.com是我的邮箱
+- 📫 怎么联系我，畏惧网络钓鱼，是我的邮箱
 - 😄 Pronouns: XVX
 - ⚡ Fun fact: 我的年龄其实很小
 
